@@ -7,7 +7,6 @@ redirect_from:
 ---
 
 <br>
-<br>
 **Email:** [cedric.chambru@econ.uzh.ch](cedric.chambru@econ.uzh.ch)  
 
 **Phone:** +41 (0) 44 634 25 36  
