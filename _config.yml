@@ -178,16 +178,13 @@ collections:
   teaching:
     output: true
     permalink: /:collection/:path/
-  publications:
+  research:
     output: true
     permalink: /:collection/:path/
   dataset:
     output: true
     permalink: /:collection/:path/
-  portfolio:
-    output: true
-    permalink: /:collection/:path/
-  talks:
+  links:
     output: true
     permalink: /:collection/:path/
 
@@ -221,10 +218,10 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # _research
   - scope:
       path: ""
-      type: publications
+      type: research
     values:
       layout: single
       author_profile: true
@@ -239,24 +236,16 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _links
   - scope:
       path: ""
-      type: portfolio
+      type: links
     values:
       layout: single
       author_profile: true
       share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
-
+      comments: true
+      
 # Sass/SCSS
 sass:
   sass_dir: _sass
