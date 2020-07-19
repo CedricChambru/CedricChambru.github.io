@@ -17,8 +17,9 @@ Prior to joining the University of Zurich, I obtained my PhD at the University o
 I have been visiting researcher at the University of Montreal, University of Oxford, and Yeungnam University.
 
 
-<br>
-<br>
+  
+  
+
 ### What's New
 
 **2020-08-26**: I'll be presenting my paper on "Was Louis XIV Wrong? Socio-Economic Consequences of Protestantism in Early Modern France" at the EEA online conference on 26 August 2020.
