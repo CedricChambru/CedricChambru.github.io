@@ -7,8 +7,6 @@ redirect_from:
   - /resume
 ---
 
-{% include base_path %}
-
 <br>
 [Download my full CV](https://cedricchambru.github.io/files/cv_cedric_chambru.pdf)
 
@@ -32,15 +30,3 @@ redirect_from:
   * National Institute for Agricultural Research (INRA), Avignon
   * Supervisor: [Ghislain Géniaux](https://www6.paca.inrae.fr/ecodeveloppement/Les-Femmes-et-Les-Hommes/Geniaux-Ghislain)
 
-## Publications
-
-<ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-
-## Teaching
-
-<ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
