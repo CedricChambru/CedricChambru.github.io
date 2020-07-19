@@ -10,7 +10,7 @@ main:
     url: /teaching/
 
   - title: "CV"
-    url: https://cedricchambru.github.io/files/cv_cedric_chambru.pdf
+    url: /cv/
     
 #  - title: "Links"
 #    url: /links/
