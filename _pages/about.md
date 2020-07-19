@@ -21,5 +21,5 @@ I have been visiting researcher at the University of Montreal, University of Oxf
 <br>
 ### What's New
 
-* **2020-08-2**: I'll be presenting my paper on "Was Louis XIV Wrong? Socio-Economic Consequences of Protestantism in Early Modern France" at the EEA online conference on 26 August 2020.
+**2020-08-26**: I'll be presenting my paper on "Was Louis XIV Wrong? Socio-Economic Consequences of Protestantism in Early Modern France" at the EEA online conference on 26 August 2020.
 
