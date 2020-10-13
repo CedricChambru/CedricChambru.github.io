@@ -16,10 +16,10 @@ redirect_from:
 
 ## Working papers  
 
-* Do it Right! Leaders, Weather Shocks and Social Conflicts in Pre-Industrial France (1661-1789) [https://doi.org/10.5167/uzh-186150]{https://doi.org/10.5167/uzh-186150}
+* Do it Right! Leaders, Weather Shocks and Social Conflicts in Pre-Industrial France (1661-1789) doi: [https://doi.org/10.5167/uzh-186150](https://doi.org/10.5167/uzh-186150)
 _(submitted)_
 
-* Attaining Autonomy in the Empire: French Governors between 1860 and 1960 (with [Scott Viallet-Thévenin](https://cv.archives-ouvertes.fr/scott-viallet-thevenin)) [https://doi.org/10.5167/uzh-190546]{https://doi.org/10.5167/uzh-190546}
+* Attaining Autonomy in the Empire: French Governors between 1860 and 1960 (with [Scott Viallet-Thévenin](https://cv.archives-ouvertes.fr/scott-viallet-thevenin)) doi: [https://doi.org/10.5167/uzh-190546](https://doi.org/10.5167/uzh-190546)
 
 ## Work in Progress  
 
