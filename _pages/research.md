@@ -10,7 +10,7 @@ redirect_from:
 
 ## Publications
 
-* Chambru, Cédric (_Forthcoming_). Economic shocks, Poverty and Crime in Eighteenth-century Savoy. _Explorations in Economic History_, 78, p. 101353 doi: [https://doi.org/10.1016/j.eeh.2020.101353](https://doi.org/10.1016/j.eeh.2020.101353)
+* Chambru, Cédric (2020). Economic shocks, Poverty and Crime in Eighteenth-century Savoy. _Explorations in Economic History_, 78, p. 101353 doi: [https://doi.org/10.1016/j.eeh.2020.101353](https://doi.org/10.1016/j.eeh.2020.101353)
 
 * Chambru, Cédric and  Viallet-Thévenin, Scott (2019). Mobilité sociale et Empire : les gouverneurs coloniaux français entre 1830 et 1960. _Revue d'histoire moderne et contemporaine_, 66-4(4), pp. 53-88. doi: [https://doi.org/10.3917/rhmc.664.0053](https://doi.org/10.3917/rhmc.664.0053)
 
