@@ -22,12 +22,12 @@ tags:
 
 With [Paul Maneuvrier-Hervieu](https://paulmaneuvrierhervieu.github.io/), I developed the [Historical Social Conflict Database (HiSCoD)](https://www.unicaen.fr/hiscod/?locale=en), which lists information on nearly 10,000 episodes of social conflict between the late 16th century and the early 19th century.
 
-## French historical GIS data
+## French Historical GIS
 
 I currently maitain and curate the [French Historical GIS Dataverse](https://dataverse.harvard.edu/dataverse/french-historical-gis), which gathers a set of digital vector data on French historical borders during the 18th century.
 
 
-## Savoy historical GIS data
+## Savoy Historical GIS
 
 I currently maitain and curate the [Savoy Historical Geographic Information System (SHGIS)](https://doi.org/10.7910/DVN/XHNKD3), which gathers a set of digital vector data on Savoy historical borders during the 18th century.
 
