@@ -29,5 +29,5 @@ I currently maitain and curate the [French Historical GIS Dataverse](https://dat
 
 ## Savoy Historical GIS
 
-I currently maitain and curate the [Savoy Historical Geographic Information System (SHGIS)](https://doi.org/10.7910/DVN/XHNKD3), which gathers a set of digital vector data on Savoy historical borders during the 18th century.
+I currently maitain and curate the [Savoy Historical Geographic Information System (SHGIS)](https://doi.org/10.7910/DVN/XHNKD3), which gathers a set of digital vector data on Savoyard historical borders during the 18th century.
 
