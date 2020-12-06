@@ -18,17 +18,16 @@ tags:
   - 19th century
 ---
 
-## French historical GIS data
-
-I currently maitain and curate the [_French Historical GIS Dataverse_](https://dataverse.harvard.edu/dataverse/french-historical-gis) which gathers a set of digital vector data (geopackage/shapefile) on French historical borders.
-
 ## Historical Social Conflict Database (HiSCoD)
 
-Together with [Paul Maneuvrier-Hervieu](https://paulmaneuvrierhervieu.com/), I developed the Historical Social Conflict Database (HiSCoD) which includes protests, riots, and other forms of social conflict. HiSCoD currently includes information on nearly 10,000 social conflict events from the lae 16th century to the 19th century.
+With [Paul Maneuvrier-Hervieu](https://paulmaneuvrierhervieu.github.io/), I developed the [Historical Social Conflict Database (HiSCoD)](https://www.unicaen.fr/hiscod/?locale=en), which lists information on nearly 10,000 episodes of social conflict between the late 16th century and the early 19th century.
 
-Online release very soon...
+## French historical GIS data
 
-## Historical dataset
+I currently maitain and curate the [French Historical GIS Dataverse](https://dataverse.harvard.edu/dataverse/french-historical-gis), which gathers a set of digital vector data on French historical borders during the 18th century.
 
-To be completed...
+
+## Savoy historical GIS data
+
+I currently maitain and curate the [Savoy Historical Geographic Information System (SHGIS)](https://doi.org/10.7910/DVN/XHNKD3), which gathers a set of digital vector data on Savoy historical borders during the 18th century.
 
