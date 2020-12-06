@@ -20,7 +20,7 @@ Prior to joining the University of Zurich, I obtained my PhD at the University o
 
 **2020-11-17**: Excited to announce the online release of the [Historical Social Conflict Database (HiSCoD)](https://www.unicaen.fr/hiscod/?locale=en). Joint work with [Paul Maneuvrier-Hervieu](https://paulmaneuvrierhervieu.github.io/) that lists nearly 10,000 episodes of social conflict before the 20th century.
 
-**2020-11-13**: Excited to share the publication of the [Savoy Historical Geographic Information System (SHGIS)](https://doi.org/10.7910/DVN/XHNKD3). Data are freely accessible on Harvard Dataverse.
+**2020-11-13**: Excited to announce the publication of the [Savoy Historical Geographic Information System (SHGIS)](https://doi.org/10.7910/DVN/XHNKD3). Data are freely accessible on Harvard Dataverse.
 
 **2020-10-05**: My paper on economic shocks, poverty and crime in Savoy has been published at [Explorations in Economic History](https://doi.org/10.1016/j.eeh.2020.101353).
 
