@@ -23,7 +23,7 @@ _(submitted)_
 
 ## Work in Progress  
 
-* Real Wages and Living Standards in Early Modern Normandy (with [Paul Maneuvrier-Hervieu](https://paulmaneuvrierhervieu.com/))
+* Real Wages and Living Standards in Early Modern Normandy (with [Paul Maneuvrier-Hervieu](https://paulmaneuvrierhervieu.github.io/))
 
 * Was Louis XIV Wrong? Socio-Economic Consequences of Protestantism in Early Modern France
 
