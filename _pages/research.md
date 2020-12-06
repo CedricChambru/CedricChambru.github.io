@@ -25,7 +25,8 @@ redirect_from:
 * Real Wages and Living Standards in Early Modern Normandy (with [Paul Maneuvrier-Hervieu](https://paulmaneuvrierhervieu.github.io/))
 
 * Was Louis XIV Wrong? Socio-Economic Consequences of Protestantism in Early Modern France
-** *Media coverage:* [LSE Business Review](https://blogs.lse.ac.uk/businessreview/2020/10/16/what-consequences-did-religious-intolerance-against-the-huguenots-have-in-france/)
+
+    - *Media coverage:* [LSE Business Review](https://blogs.lse.ac.uk/businessreview/2020/10/16/what-consequences-did-religious-intolerance-against-the-huguenots-have-in-france/)
 
 * The Legacy of Colonial Education: Evidence from Tunisia (with Mhamed Ben Salah and [Maleke Fourati](https://sites.google.com/view/malekefourati/home))
 
