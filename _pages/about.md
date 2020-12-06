@@ -11,9 +11,10 @@ redirect_from:
 I am a post-doctoral researcher in Economic History at the [University of Zurich](https://www.econ.uzh.ch/en/people/researchers/chambru.html). My research spans political economy and economic history. More specifically, my research focuses on social conflicts, institutions and development, living standards during the Industrial Revolution, and social mobility.
 
 Prior to joining the University of Zurich, I obtained my PhD at the University of Geneva in 2019. I have been visiting researcher at the University of Caen-Normandie, University of Mohammed VI Polytechnique, University of Montreal, University of Oxford, and Yeungnam University.  
-   
-   
-   
+
+<br>
+<br>
+
 ### What's New?
 
 **2021-02-11**: I'm looking forward to hosting the first [Virtual FRESH Meeting](http://www.quceh.org.uk/zurich-2021.html) in Zurich. Join us to learn on fantastic resarch by new shcolars on "Living standards and economic development in historical perspective".
