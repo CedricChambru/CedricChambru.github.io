@@ -17,7 +17,7 @@ Prior to joining the University of Zurich, I obtained my PhD at the University o
 
 ### What's New?
 
-**2021-08-23**: With [Paul Maneuvrier-Hervieu](https://paulmaneuvrierhervieu.github.io/), we organise a panel on social conflict in early modern Europe at the next Rural History Conference in Uppsala (23-26 August 2021). Please find the CfP here.
+**2021-08-23**: With [Paul Maneuvrier-Hervieu](https://paulmaneuvrierhervieu.github.io/), we organise a panel on social conflict in early modern Europe at the next Rural History Conference in Uppsala (23-26 August 2021). Please find the CfP [here](https://cedricchambru.github.io/files/eurho_2021_cfp.pdf) .
 
 **2021-02-11**: I'm looking forward to hosting the first [Virtual FRESH Meeting](http://www.quceh.org.uk/zurich-2021.html) in Zurich. Join us to learn on fantastic resarch by new shcolars on "Living standards and economic development in historical perspective".
 
