@@ -19,7 +19,7 @@ Prior to joining the University of Zurich, I obtained my PhD at the University o
 
 **2021-08-23**: With [Paul Maneuvrier-Hervieu](https://paulmaneuvrierhervieu.github.io/), we organise a panel on social conflict in early modern Europe at the next *Rural History Conference* in Uppsala (23-26 August 2021). Please find the CfP [here](https://cedricchambru.github.io/files/eurho_2021_cfp.pdf).
 
-**2021-02-11**: I'm looking forward to hosting the first [Virtual FRESH Meeting](http://www.quceh.org.uk/zurich-2021.html) in Zurich. Join us to learn on fantastic resarch by new shcolars on "Living standards and economic development in historical perspective".
+**2021-02-11**: I'm looking forward to hosting the first [Virtual FRESH Meeting](http://www.quceh.org.uk/zurich-2021.html) in Zurich. Join us to learn on fantastic resarch on "Living standards and economic development in historical perspective". [Registration here](https://uzh.zoom.us/webinar/register/WN_d1ouHg2wSF-RuotVSgJ1mw).
 
 **2020-11-17**: Excited to announce the online release of the [Historical Social Conflict Database (HiSCoD)](https://www.unicaen.fr/hiscod/?locale=en). Joint work with [Paul Maneuvrier-Hervieu](https://paulmaneuvrierhervieu.github.io/) that lists nearly 10,000 episodes of social conflict before the 20th century.
 
