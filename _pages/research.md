@@ -20,16 +20,16 @@ redirect_from:
 
 * The Dynamic Consequences of State-Building: Evidence from the French Revolution (with [Benjamin Marx](https://sites.google.com/view/bmarx) and [Emeric Henry](https://sites.google.com/site/emericmlhenry)) [[CEPR Working paper DP16815](https://cepr.org/active/publications/discussion_papers/dp.php?dpno=16815)][[Last version](https://drive.google.com/file/d/1Wll4seH5huKJU6ll9ziLA4ixs7BJzSG8/view)].
 
-* The Evolution of Wages in Early Modern Normandy (1600–1850) (with [Paul Maneuvrier-Hervieu](https://paulmaneuvrierhervieu.github.io)) [Working paper](https://doi.org/10.5167/uzh-207639). 
+* The Evolution of Wages in Early Modern Normandy (1600–1850) (with [Paul Maneuvrier-Hervieu](https://paulmaneuvrierhervieu.github.io)) [[Working paper](https://doi.org/10.5167/uzh-207639)]. 
 
-* Do it Right! Leaders, Weather Shocks and Social Conflicts in Pre-Industrial France (1661-1789). [Working paper](https://doi.org/10.5167/uzh-186150)
+* Do it Right! Leaders, Weather Shocks and Social Conflicts in Pre-Industrial France (1661-1789). [[Working paper](https://doi.org/10.5167/uzh-186150)]
 
 
 ## Work in progress  
 
-* An Empire on the Move: Mobility and Structuration of the Elites in the French Imperial Space, 1880–1950 (with [Scott Viallet-Thévenin](https://cv.archives-ouvertes.fr/scott-viallet-thevenin))[Book under contract with Palgrave Macmillan]
+* An Empire on the Move: Mobility and Structuration of the Elites in the French Imperial Space, 1880–1950 (with [Scott Viallet-Thévenin](https://cv.archives-ouvertes.fr/scott-viallet-thevenin)) [*Book under contract with Palgrave Macmillan*]
 
-* The Legacy of Colonial Education: Evidence from Tunisia (with [Mhamed Ben Salah](https://mhamedbensalah.github.io) and [Maleke Fourati](https://sites.google.com/view/malekefourati))[Draft available upon request]
+* The Legacy of Colonial Education: Evidence from Tunisia (with [Mhamed Ben Salah](https://mhamedbensalah.github.io) and [Maleke Fourati](https://sites.google.com/view/malekefourati)) [Draft available upon request]
 
 * The Political Determinants of Social Unrest: Theory and Evidence from Early Modern France (with [Matteo Camboni](https://sites.google.com/u.northwestern.edu/matteocamboni/home) and [Michael Porcellacchia](https://sites.northwestern.edu/mporcellacchia/))
 
@@ -48,7 +48,7 @@ redirect_from:
 
 * Land Inequality in 19th-Century Switzerland
 
-* Regional GDP estimates for Switzerland, 1750–1850 (with Michael Baltensperger and Ulrich Woitek)[[Summary](https://p3.snf.ch/Project-182294)]
+* Regional GDP estimates for Switzerland, 1750–1850 (with Michael Baltensperger and Ulrich Woitek) [[Summary](https://p3.snf.ch/Project-182294)]
 
 
 
