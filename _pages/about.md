@@ -10,7 +10,9 @@ redirect_from:
 
 I am a post-doctoral researcher in Economic History at the [University of Zurich](https://www.econ.uzh.ch/en/people/researchers/chambru.html). My research spans political economy and economic history.
 
-More specifically, my research interest centers on understanding the role of institutions and state-building in long run development. Another strand of my research studies the evolution of living standards during the Industrial Revolution. I also wrote several papers related to colonial history, and I am currently preparing a manuscript, which documents the emergence and properties of the French imperial elites and how they both used and contributed to the formation of the structure of the Empire between 1880 and 1950. Finally, my research interests also include historical social conflict. Since November 2020, I am the co-maintainer of the [Historical Social Conflict Database (HiSCoD)](https://www.unicaen.fr/hiscod/?locale=en).
+More specifically, my research interest centers on understanding the role of institutions and state-building in long run development. Another strand of my research studies the evolution of living standards during the Industrial Revolution. Finally, my research interest also includes historical social conflict. Since November 2020, I am the co-maintainer of the [Historical Social Conflict Database (HiSCoD)](https://www.unicaen.fr/hiscod/?locale=en).
+
+I also wrote several papers related to colonial history, and I am currently preparing a manuscript, which documents the emergence and properties of the French imperial elites and how they both used and contributed to the formation of the structure of the Empire between 1880 and 1950.
 
 Prior to joining the University of Zurich, I obtained my PhD at the University of Geneva in 2019. I have been visiting researcher at the University of Caen-Normandie, University of Mohammed VI Polytechnique, University of Montreal, University of Oxford, and Yeungnam University.  
 
@@ -21,7 +23,7 @@ Prior to joining the University of Zurich, I obtained my PhD at the University o
 
 **2022-02-18**: I'll be giving a talk on the development of the [Historical Social Conflict Database (HiSCoD)](https://www.unicaen.fr/hiscod/?locale=en) at the next Congreso de Historia Agraria at the Universidad de Cantabria
 
-**2022-01-06**: Look out for my new working paper (with [Benjamin Marx](https://sites.google.com/view/bmarx) and [Emeric Henry](https://sites.google.com/site/emericmlhenry)) on [state-building in 19th-century France] (https://cepr.org/active/publications/discussion_papers/dp.php?dpno=16815).
+**2022-01-06**: Look out for my new working paper (with [Benjamin Marx](https://sites.google.com/view/bmarx) and [Emeric Henry](https://sites.google.com/site/emericmlhenry)) on [state-building in 19th-century France](https://cepr.org/active/publications/discussion_papers/dp.php?dpno=16815).
 
 **2021-08-23**: With [Paul Maneuvrier-Hervieu](https://paulmaneuvrierhervieu.github.io/), we organise a panel on social conflict in early modern Europe at the next *Rural History Conference* in Uppsala (23-26 August 2021). Please find the CfP [here](https://cedricchambru.github.io/files/eurho_2021_cfp.pdf).
 
