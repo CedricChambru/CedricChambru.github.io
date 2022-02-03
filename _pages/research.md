@@ -19,7 +19,9 @@ redirect_from:
 ## Working papers  
 
 * The Dynamic Consequences of State-Building: Evidence from the French Revolution (with [Benjamin Marx](https://sites.google.com/view/bmarx) and [Emeric Henry](https://sites.google.com/site/emericmlhenry)) [[CEPR Working paper DP16815](https://cepr.org/active/publications/discussion_papers/dp.php?dpno=16815)][[Last version](https://drive.google.com/file/d/1Wll4seH5huKJU6ll9ziLA4ixs7BJzSG8/view)].
-
+ 
+   - *Media coverage:* [VoxEU](https://voxeu.org/article/building-state-one-step-time)
+ 
 * The Evolution of Wages in Early Modern Normandy (1600–1850) (with [Paul Maneuvrier-Hervieu](https://paulmaneuvrierhervieu.github.io)) [[Working paper](https://doi.org/10.5167/uzh-207639)]. 
 
 * Do it Right! Leaders, Weather Shocks and Social Conflicts in Pre-Industrial France (1661-1789). [[Working paper](https://doi.org/10.5167/uzh-186150)]
