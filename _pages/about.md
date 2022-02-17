@@ -21,7 +21,7 @@ Prior to joining the University of Zurich, I obtained my PhD at the University o
 
 ### What's New?
 
-**2022-02-18**: I'll be giving a talk on the development of the [Historical Social Conflict Database (HiSCoD)](https://www.unicaen.fr/hiscod/?locale=en) at the next Congreso de Historia Agraria at the Universidad de Cantabria
+**2022-02-18**: I'll be giving a talk on the development of the [Historical Social Conflict Database (HiSCoD)](https://www.unicaen.fr/hiscod/?locale=en) at the Congress on _Resistencias campesinas en los espacios rurale_ at the Universidad de Cantabria
 
 **2022-01-06**: Look out for my new working paper (with [Benjamin Marx](https://sites.google.com/view/bmarx) and [Emeric Henry](https://sites.google.com/site/emericmlhenry)) on [state-building in 19th-century France](https://cepr.org/active/publications/discussion_papers/dp.php?dpno=16815).
 
