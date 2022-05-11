@@ -7,10 +7,11 @@ tags:
   - Europe
   - England
   - France
+  - Italy
   - Savoy
   - Switzerland
-  - Social conflicts
-  - Riots
+  - Social conflict
+  - Riot
   - gis data
   - geopackage
   - shapefile
@@ -20,7 +21,10 @@ tags:
 
 ## Historical Social Conflict Database (HiSCoD)
 
-With [Paul Maneuvrier-Hervieu](https://paulmaneuvrierhervieu.github.io/), I developed the [Historical Social Conflict Database (HiSCoD)](https://www.unicaen.fr/hiscod/?locale=en), which lists information on nearly 10,000 episodes of social conflict between the late 16th century and the early 19th century.
+With [Paul Maneuvrier-Hervieu](https://paulmaneuvrierhervieu.github.io/), I developed the [Historical Social Conflict Database (HiSCoD)](https://www.unicaen.fr/hiscod), which lists information on more than 20,000 episodes of social conflict between the 12th century and the late 19th century.
+
+Raw data available in csv format in the [Github repository](https://github.com/hiscod/hiscod) of the project. For more details on the construction of the database, please see the [working paper](https://doi.org/10.5167/uzh-207639).
+
 
 ## French Historical GIS
 
