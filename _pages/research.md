@@ -22,11 +22,11 @@ redirect_from:
 
 * Introducing HiSCoD: A New Gateway for the Study of Historical Social Conflict (with [Paul Maneuvrier-Hervieu](https://paulmaneuvrierhervieu.github.io)) [[UZH Working Paper 407](https://doi.org/10.5167/uzh-217109)]
 
-* The Dynamic Consequences of State-Building: Evidence from the French Revolution (with [Benjamin Marx](https://sites.google.com/view/bmarx) and [Emeric Henry](https://sites.google.com/site/emericmlhenry)) [[CEPR Working paper DP16815](https://cepr.org/active/publications/discussion_papers/dp.php?dpno=16815)][[UZH Working Paper 406](https://doi.org/10.5167/uzh-217105)][[Last version](https://drive.google.com/file/d/1Wll4seH5huKJU6ll9ziLA4ixs7BJzSG8/view)]
+* The Dynamic Consequences of State-Building: Evidence from the French Revolution (with [Benjamin Marx](https://sites.google.com/view/bmarx) and [Emeric Henry](https://sites.google.com/site/emericmlhenry)) [[CEPR Working paper DP16815](https://cepr.org/active/publications/discussion_papers/dp.php?dpno=16815)][[UZH Working Paper 406](https://doi.org/10.5167/uzh-217105)][[Last version](https://drive.google.com/file/d/1Wll4seH5huKJU6ll9ziLA4ixs7BJzSG8/view)] Revise & Resubmit, *American Economic Review*
  
    - *Media coverage:* [VoxEU](https://voxeu.org/article/building-state-one-step-time) [VoxEU podcast](https://voxeu.org/vox-talks/french-revolution-state-building)
  
-* The Evolution of Wages in Early Modern Normandy (1600–1850) (with [Paul Maneuvrier-Hervieu](https://paulmaneuvrierhervieu.github.io)) [[UZH Working Paper  398](https://doi.org/10.5167/uzh-207639)]
+* The Evolution of Wages in Early Modern Normandy (1600–1850) (with [Paul Maneuvrier-Hervieu](https://paulmaneuvrierhervieu.github.io)) [[UZH Working Paper  398](https://doi.org/10.5167/uzh-207639)] Revise & Resubmit, *The Economic History Review*
 
 * Do it Right! Leaders, Weather Shocks and Social Conflicts in Pre-Industrial France (1661-1789). [[Working paper](https://doi.org/10.5167/uzh-186150)]
 
@@ -51,6 +51,5 @@ redirect_from:
 * Land Inequality in 19th-Century Switzerland
 
 * Regional GDP estimates for Switzerland, 1750–1850 (with Michael Baltensperger and Ulrich Woitek) [[Summary](https://p3.snf.ch/Project-182294)]
-
 
 
