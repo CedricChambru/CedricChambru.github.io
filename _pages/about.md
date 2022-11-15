@@ -14,18 +14,24 @@ More specifically, my research interest centers on understanding the role of ins
 
 I also wrote several papers related to colonial history, and I am currently preparing a manuscript, which documents the emergence and properties of the French imperial elites and how they both used and contributed to the formation of the structure of the Empire between 1880 and 1950.
 
-Prior to joining the University of Zurich, I obtained my PhD at the University of Geneva in 2019. I have been visiting researcher at the University of Caen-Normandie, University of Mohammed VI Polytechnique, University of Montreal, University of Oxford, and Yeungnam University.  
+Prior to joining the University of Zurich, I obtained my PhD at the University of Geneva in 2019. I have been visiting researcher at Bocconi University, University of Caen-Normandie, University of Mohammed VI Polytechnique, University of Montreal, University of Oxford, and Yeungnam University.  
 
 <br>
 <br>
 
 ### What's New?
 
-**2022-02-18**: I'll be giving a talk on the development of the [Historical Social Conflict Database (HiSCoD)](https://www.unicaen.fr/hiscod/?locale=en) at the Congress on _Resistencias campesinas en los espacios rurale_ at the Universidad de Cantabria
+**2022-11-11**: My paper on [the evolution of wages in early modern Normandy](https://doi.org/10.1111/ehr.13220) (with [Paul Maneuvrier-Hervieu](https://paulmaneuvrierhervieu.github.io/)) has been accepted at *The Economic History Review*.
+
+**2022-07-20**: The new version of the [Historical Social Conflict Database (HiSCoD)](https://www.unicaen.fr/hiscod) is now online. It contains more than 10,000 additional episodes of conflict and cover many new countries including Italy and England.
+
+**2022-06-18**: Excited to be nominated for __Gino Luzzatto Prize__ by the European Historical Economics Society for the best dissertation in economic history submitted between July 2019 and June 2021.
+
+**2022-02-18**: I'll be giving a talk on the development of the [Historical Social Conflict Database (HiSCoD)](https://www.unicaen.fr/hiscod/?locale=en) at the Congress on _Resistencias campesinas en los espacios rurale_ at the Universidad de Cantabria.
 
 **2022-01-06**: Look out for my new working paper (with [Benjamin Marx](https://sites.google.com/view/bmarx) and [Emeric Henry](https://sites.google.com/site/emericmlhenry)) on [state-building in 19th-century France](https://cepr.org/active/publications/discussion_papers/dp.php?dpno=16815).
 
-**2021-08-23**: With [Paul Maneuvrier-Hervieu](https://paulmaneuvrierhervieu.github.io/), we organise a panel on social conflict in early modern Europe at the next *Rural History Conference* in Uppsala (23-26 August 2021). Please find the CfP [here](https://cedricchambru.github.io/files/eurho_2021_cfp.pdf).
+**2021-08-23**: With [Paul Maneuvrier-Hervieu](https://paulmaneuvrierhervieu.github.io), we organise a panel on social conflict in early modern Europe at the next *Rural History Conference* in Uppsala (23-26 August 2021). Please find the CfP [here](https://cedricchambru.github.io/files/eurho_2021_cfp.pdf).
 
 **2021-02-11**: I'm looking forward to hosting the first [Virtual FRESH Meeting](http://www.quceh.org.uk/zurich-2021.html) in Zurich. Join us to learn on fantastic resarch on "Living standards and economic development in historical perspective". [Registration here](https://uzh.zoom.us/webinar/register/WN_d1ouHg2wSF-RuotVSgJ1mw).
 
