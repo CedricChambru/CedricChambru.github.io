@@ -10,7 +10,7 @@ redirect_from:
 
 ## Publications
 
-* Chambru, Cédric and Paul Maneuvrier-Hervieu (Forthcoming). The Evolution of Wages in Early Modern Normandy (1600–1850). *The Economic History Review*.  doi: [10.1111/ehr.13220](https://doi.org/10.1111/ehr.13220).
+* Chambru, Cédric and Maneuvrier-Hervieu, Paul (Forthcoming). The Evolution of Wages in Early Modern Normandy (1600–1850). *The Economic History Review*.  doi: [10.1111/ehr.13220](https://doi.org/10.1111/ehr.13220).
 
 * Chambru, Cédric and Viallet-Thévenin, Scott (2022). Attaining Autonomy in the Empire: French Governors between 1860 and 1960. *Social Science History*, 46(4). doi: [10.1017/ssh.2022.20](https://doi.org/10.1017/ssh.2022.20).
  
