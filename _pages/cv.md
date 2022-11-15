@@ -8,12 +8,13 @@ redirect_from:
 ---
 
 <br>
-[Download my full CV](https://cedricchambru.github.io/files/cv_cedric_chambru_may_2022.pdf)
+[Download my full CV](https://cedricchambru.github.io/files/cv_cedric_chambru_nov_2022.pdf)
 
 ## Education
 
 * PhD in Social and Economic History, University of Geneva, 2019
-* Msc. in Economics,  École Polytechnique, Sciences Po, ENSAE, 2012
+* Master in Economics, Sciences Po, 2012
+* Master in Economics and Public Policy, École Polytechnique, Sciences Po, ENSAE, 2012
 * B.A. in Economics & Management, Université Lumière Lyon 2, 2009
 
 ## Work experience
