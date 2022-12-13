@@ -21,11 +21,13 @@ Prior to joining the University of Zurich, I obtained my PhD at the University o
 
 ### What's New?
 
-**2022-11-11**: My paper on [the evolution of wages in early modern Normandy](https://doi.org/10.1111/ehr.13220) (with [Paul Maneuvrier-Hervieu](https://paulmaneuvrierhervieu.github.io/)) has been accepted at *The Economic History Review*.
+**2022-12-12**: My paper on [the evolution of wages in early modern Normandy](https://doi.org/10.1111/ehr.13220) (with [Paul Maneuvrier-Hervieu](https://paulmaneuvrierhervieu.github.io)) is now available in _Early View_ at *The Economic History Review*.
+
+**2022-12-09**: My [dissertation summary](https://doi.org/10.1093/ereh/heac017) is now available as _Advances articles_ at the *European Review of Economic History*, as part of my nomination for the __Gino Luzzatto Prize__.
 
 **2022-07-20**: The new version of the [Historical Social Conflict Database (HiSCoD)](https://www.unicaen.fr/hiscod) is now online. It contains more than 10,000 additional episodes of conflict and cover many new countries including Italy and England.
 
-**2022-06-18**: Excited to be nominated for __Gino Luzzatto Prize__ by the European Historical Economics Society for the best dissertation in economic history submitted between July 2019 and June 2021.
+**2022-06-18**: Excited to be nominated for the __Gino Luzzatto Prize__ by the European Historical Economics Society for the best dissertation in economic history submitted between July 2019 and June 2021.
 
 **2022-02-18**: I'll be giving a talk on the development of the [Historical Social Conflict Database (HiSCoD)](https://www.unicaen.fr/hiscod/?locale=en) at the Congress on _Resistencias campesinas en los espacios rurale_ at the Universidad de Cantabria.
 
