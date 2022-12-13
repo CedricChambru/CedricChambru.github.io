@@ -12,6 +12,8 @@ redirect_from:
 
 * Chambru, Cédric and Maneuvrier-Hervieu, Paul (Forthcoming). The Evolution of Wages in Early Modern Normandy (1600–1850). *The Economic History Review*.  doi: [10.1111/ehr.13220](https://doi.org/10.1111/ehr.13220).
 
+* Chambru, Cédric (Forthcoming). Environmental shocks, religious struggle, and resilience: a contribution to the economic history of Ancien Régime France. *European Review of Economic History*.  doi: [10.1093/ereh/heac017](https://doi.org/10.1093/ereh/heac017).
+
 * Chambru, Cédric and Viallet-Thévenin, Scott (2022). Attaining Autonomy in the Empire: French Governors between 1860 and 1960. *Social Science History*, 46(4), pp. 831-859. doi: [10.1017/ssh.2022.20](https://doi.org/10.1017/ssh.2022.20).
  
 * Chambru, Cédric (2020). Economic shocks, Poverty and Crime in Eighteenth-century Savoy. *Explorations in Economic History*, 78, p. 101353. doi: [10.1016/j.eeh.2020.101353](https://doi.org/10.1016/j.eeh.2020.101353).
@@ -20,7 +22,7 @@ redirect_from:
 
 ## Working papers  
 
-* The Legacy of Colonial Education: Evidence from Tunisia (with [Mhamed Ben Salah](https://mhamedbensalah.github.io) and [Maleke Fourati](https://sites.google.com/view/malekefourati)) [[UZH Working Paper 411](https://doi.org/10.5167/uzh-218541)] Submitted, *Economic Development and Cultural Change*
+* The Legacy of Colonial Education: Evidence from Tunisia (with [Mhamed Ben Salah](https://mhamedbensalah.github.io) and [Maleke Fourati](https://sites.google.com/view/malekefourati)) [[UZH Working Paper 411](https://doi.org/10.5167/uzh-218541)]
 
 * Introducing HiSCoD: A New Gateway for the Study of Historical Social Conflict (with [Paul Maneuvrier-Hervieu](https://paulmaneuvrierhervieu.github.io)) [[UZH Working Paper 407](https://doi.org/10.5167/uzh-217109)] Revision requested, *American Political Science Review*
 
