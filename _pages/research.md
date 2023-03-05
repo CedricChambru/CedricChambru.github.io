@@ -24,7 +24,7 @@ redirect_from:
 
 * The Legacy of Colonial Education: Evidence from Tunisia (with [Mhamed Ben Salah](https://mhamedbensalah.github.io) and [Maleke Fourati](https://sites.google.com/view/malekefourati)) [[UZH Working Paper 411](https://doi.org/10.5167/uzh-218541)]
 
-* Introducing HiSCoD: A New Gateway for the Study of Historical Social Conflict (with [Paul Maneuvrier-Hervieu](https://paulmaneuvrierhervieu.github.io)) [[UZH Working Paper 407](https://doi.org/10.5167/uzh-217109)] Revision requested, *American Political Science Review*
+* Introducing HiSCoD: A New Gateway for the Study of Historical Social Conflict (with [Paul Maneuvrier-Hervieu](https://paulmaneuvrierhervieu.github.io)) [[UZH Working Paper 407](https://doi.org/10.5167/uzh-217109)] Revise & Resubmit, *American Political Science Review*
 
 * The Dynamic Consequences of State-Building: Evidence from the French Revolution (with [Benjamin Marx](https://sites.google.com/view/bmarx) and [Emeric Henry](https://sites.google.com/site/emericmlhenry)) [[CEPR Working paper DP16815](https://cepr.org/active/publications/discussion_papers/dp.php?dpno=16815)][[UZH Working Paper 406](https://doi.org/10.5167/uzh-217105)][[Last version](https://drive.google.com/file/d/1Wll4seH5huKJU6ll9ziLA4ixs7BJzSG8/view)] Revise & Resubmit, *American Economic Review*
  
@@ -41,6 +41,15 @@ redirect_from:
 
 * Plagues, Wars and Wages in Late Medieval Normandy (with [Paul Maneuvrier-Hervieu](https://paulmaneuvrierhervieu.github.io))
 
+* Real Wages in the Northwestern Alps (17th–19th Centuries)
+
+   <details>
+    <summary>Abstract</summary>
+     <br>
+     <p align="justify">
+     <em>While Switzerland is nowadays one of the richest country in the world, we know very little about Swiss economic growth prior to the 19th century. After 1685, the inflows of French Huguenots contributed to the development of various industries, including watchmaking and painted textile (`indiennes'), in the western part of country. However, the overall effect on the local economy is poorly understood. In this paper, we address these shortcomings by analysing the evolution of real wages in Geneva and its surrounding areas from the late 17th century to the mid-19th century. We use primary and secondary sources to establish series of wages for daily skilled and unskilled male labour. We further provide tentative comparison with wages and prices for the Duchy of Savoy and the cities of Lausanne and Neuchâtel.<em>
+     <p>  
+   </details>
 
 ## Data collection
 
@@ -48,7 +57,7 @@ redirect_from:
 
     - *Media coverage:* [LSE Business Review](https://blogs.lse.ac.uk/businessreview/2020/10/16/what-consequences-did-religious-intolerance-against-the-huguenots-have-in-france/)
 
-* Real Wages in the Northwestern Alps (17th–19th Centuries)
+
 
 * Land Inequality in 19th-Century Switzerland
 
