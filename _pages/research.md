@@ -43,14 +43,16 @@ redirect_from:
 
 * Real Wages in the Northwestern Alps (17th–19th Centuries)
 
-   <details>
-    <summary>Abstract</summary>
-  
-     <br>
-     <p align="justify">
-     <em>While Switzerland is nowadays one of the richest country in the world, we know very little about Swiss economic growth prior to the 19th century. After 1685, the inflows of French Huguenots contributed to the development of various industries, including watchmaking and painted textile (`indiennes'), in the western part of country. However, the overall effect on the local economy is poorly understood. In this paper, we address these shortcomings by analysing the evolution of real wages in Geneva and its surrounding areas from the late 17th century to the mid-19th century. We use primary and secondary sources to establish series of wages for daily skilled and unskilled male labour. We further provide tentative comparison with wages and prices for the Duchy of Savoy and the cities of Lausanne and Neuchâtel.<em>
-     </p>
-       
+
+
+<a href="javascript:unhide('abstract_swiss_wages');">[Show/hide abstract]</a>
+<br>
+
+   <div id="abstract_swiss_wages" class="hidden">
+   <p style="padding-left:30px;padding-bottom:10px;margin-top:0px;font-size:11px;">
+   Switzerland is nowadays one of the richest country in the world, we know very little about Swiss economic growth prior to the 19th century. After 1685, the inflows of French Huguenots contributed to the development of various industries, including watchmaking and painted textile (`indiennes'), in the western part of country. However, the overall effect on the local economy is poorly understood. In this paper, we address these shortcomings by analysing the evolution of real wages in Geneva and its surrounding areas from the late 17th century to the mid-19th century. We use primary and secondary sources to establish series of wages for daily skilled and unskilled male labour. We further provide tentative comparison with wages and prices for the Duchy of Savoy and the cities of Lausanne and Neuchâtel.
+   </p>
+   </div>
 
 ## Data collection
 
