@@ -43,12 +43,9 @@ redirect_from:
 
 * Real Wages in the Northwestern Alps (17th–19th Centuries)
 
-   <details><summary>Abstract</summary><p>
-    <p align="justify">
-    Switzerland is nowadays one of the richest country in the world, we know very little about Swiss economic growth prior to the 19th century. After 1685, the inflows of French Huguenots contributed to the development of various industries, including watchmaking and painted textile (<em>indiennes</em>), in the western part of country. However, the overall effect on the local economy is poorly understood. In this paper, we address these shortcomings by analysing the evolution of real wages in Geneva and its surrounding areas from the late 17th century to the mid-19th century. We use primary and secondary sources to establish series of wages for daily skilled and unskilled male labour. We further provide tentative comparisons with wages and prices for the Duchy of Savoy and the cities of Lausanne and Neuchâtel.
-    
-    </p>
-   </details>
+* The Occupational Structure of Switzerland, c. 1750-c. 1850
+
+* The Biological Standard of Living of Swiss Mercenaries, c. 1750-c. 1850 (with Simon Hediger and Ulrich Woitek)
 
 
 ## Data collection
@@ -56,10 +53,6 @@ redirect_from:
 * Protestantism, Human Capital and Religious Persecution: Evidence from Early Modern France
 
     - *Media coverage:* [LSE Business Review](https://blogs.lse.ac.uk/businessreview/2020/10/16/what-consequences-did-religious-intolerance-against-the-huguenots-have-in-france/)
-
-
-
-* Land Inequality in 19th-Century Switzerland
 
 * Regional GDP estimates for Switzerland, 1750–1850 (with Michael Baltensperger and Ulrich Woitek) [[Summary](https://p3.snf.ch/Project-182294)]
 
