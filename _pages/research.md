@@ -10,7 +10,7 @@ redirect_from:
 
 ## Publications
 
-* Chambru, Cédric and Maneuvrier-Hervieu, Paul (Forthcoming). The Evolution of Wages in Early Modern Normandy (1600–1850). *The Economic History Review*.  doi: [10.1111/ehr.13220](https://doi.org/10.1111/ehr.13220).
+* Chambru, Cédric and Maneuvrier-Hervieu, Paul (2023). The Evolution of Wages in Early Modern Normandy (1600–1850). *The Economic History Review*, 76(3), pp. 917-940. doi: [10.1111/ehr.13220](https://doi.org/10.1111/ehr.13220).
 
 * Chambru, Cédric (Forthcoming). Environmental shocks, religious struggle, and resilience: a contribution to the economic history of Ancien Régime France. *European Review of Economic History*.  doi: [10.1093/ereh/heac017](https://doi.org/10.1093/ereh/heac017).
 
