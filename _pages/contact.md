@@ -13,7 +13,7 @@ redirect_from:
 
 **Address:**  
 Department of Economics  
-École normale supérieure de Lyon
-15 Parvis Descartes
-69007 Lyon
+École normale supérieure de Lyon  
+15 Parvis Descartes  
+69007 Lyon  
 France
