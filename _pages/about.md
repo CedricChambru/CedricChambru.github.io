@@ -8,18 +8,20 @@ redirect_from:
   - /about.html
 ---
 
-I am a post-doctoral researcher in Economic History at the [University of Zurich](https://www.econ.uzh.ch/en/people/researchers/chambru.html). My research spans political economy and economic history.
+I am a Assistant Professor of Economics at the [École normale supérieure de Lyon](http://economie.ens-lyon.fr). My research spans political economy and economic history.
 
 More specifically, my research interest centers on understanding the role of institutions and state-building in long run development. Another strand of my research studies the evolution of living standards during the Industrial Revolution. Finally, my research interest also includes historical social conflict. Since November 2020, I am the co-maintainer of the [Historical Social Conflict Database (HiSCoD)](https://www.unicaen.fr/hiscod/?locale=en).
 
 I also wrote several papers related to colonial history, and I am currently preparing a manuscript, which documents the emergence and properties of the French imperial elites and how they both used and contributed to the formation of the structure of the Empire between 1880 and 1950.
 
-Prior to joining the University of Zurich, I obtained my PhD at the University of Geneva in 2019. I have been visiting researcher at Bocconi University, University of Caen-Normandie, University of Mohammed VI Polytechnique, University of Montreal, University of Oxford, and Yeungnam University.  
+Prior to joining the ENS Lyon, I worked at the University of Zurich as post-doctoral researcher between 2019 and 2023. I obtained my PhD at the University of Geneva in 2019. I have been visiting researcher at Bocconi University, University of Caen-Normandie, University of Mohammed VI Polytechnique, University of Montreal, University of Oxford, and Yeungnam University.  
 
 <br>
 <br>
 
 ### What's New?
+
+**2023-18-07**: My paper _Introducing HiSCoD: A New Gateway for the Studyof Historical Social Conflic_ (with [Paul Maneuvrier-Hervieu](https://paulmaneuvrierhervieu.github.io)) has been just accepted at the   at the *American Political Science Review*.
 
 **2022-12-12**: My paper on [the evolution of wages in early modern Normandy](https://doi.org/10.1111/ehr.13220) (with [Paul Maneuvrier-Hervieu](https://paulmaneuvrierhervieu.github.io)) is now available in _Early View_ at *The Economic History Review*.
 
