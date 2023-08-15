@@ -7,13 +7,13 @@ redirect_from:
 ---
 
 <br>
-**Email:** [cedric.chambru@econ.uzh.ch](cedric.chambru@econ.uzh.ch)  
+**Email:** [cedric.chambru@ens-lyon.fr](cedric.chambru@ens-lyon.fr)  
 
 **Phone:** +41 (0) 44 634 25 36  
 
 **Address:**  
 Department of Economics  
-University of Zurich  
-Zürichbergstrasse 14  
-CH-8032 Zürich  
-
+École normale supérieure de Lyon
+15 Parvis Descartes
+69007 Lyon
+France
