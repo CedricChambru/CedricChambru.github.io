@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a Assistant Professor of Economics at the [École normale supérieure de Lyon](http://economie.ens-lyon.fr). My research spans political economy and economic history.
+I am Assistant Professor of Economics at the [École normale supérieure de Lyon](http://economie.ens-lyon.fr). My research spans political economy and economic history.
 
 More specifically, my research interest centers on understanding the role of institutions and state-building in long run development. Another strand of my research studies the evolution of living standards during the Industrial Revolution. Finally, my research interest also includes historical social conflict. Since November 2020, I am the co-maintainer of the [Historical Social Conflict Database (HiSCoD)](https://www.unicaen.fr/hiscod/?locale=en).
 
