@@ -21,7 +21,7 @@ Prior to joining the ENS Lyon, I worked at the University of Zurich as post-doct
 
 ### What's New?
 
-**2023-18-07**: My paper _Introducing HiSCoD: A New Gateway for the Studyof Historical Social Conflic_ (with [Paul Maneuvrier-Hervieu](https://paulmaneuvrierhervieu.github.io)) has been just accepted at the   at the *American Political Science Review*.
+**2023-18-07**: My paper _Introducing HiSCoD: A New Gateway for the Studyof Historical Social Conflic_ (with [Paul Maneuvrier-Hervieu](https://paulmaneuvrierhervieu.github.io)) has been just accepted at the *American Political Science Review*.
 
 **2022-12-12**: My paper on [the evolution of wages in early modern Normandy](https://doi.org/10.1111/ehr.13220) (with [Paul Maneuvrier-Hervieu](https://paulmaneuvrierhervieu.github.io)) is now available in _Early View_ at *The Economic History Review*.
 
