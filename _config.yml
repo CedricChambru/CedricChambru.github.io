@@ -10,7 +10,7 @@ locale                   : "en-GB"
 title                    : "Cédric Chambru"
 title_separator          : "-"
 name                     : &name "Cédric Chambru"
-description              : &description "Post-doctoral Researcher in Economic History"
+description              : &description "Assistant Professor in Economics"
 url                      : https://cedricchambru.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "CedricChambru/CedricChambru.github.io"
@@ -82,11 +82,11 @@ analytics:
 author:
   name             : "Cédric Chambru"
   avatar           : "avatar.png"
-  bio              : "Post-doctoral Researcher in Economic History"
-  location         : "Zürich"
+  bio              : "Assistant Professor in Economics"
+  location         : "Lyon"
   employer         :
   googlescholar    : "https://scholar.google.ch/citations?user=PgrHSDMAAAAJ&hl=en&inst=13307226046980859423"
-  email            : "cedric.chambru@econ.uzh.ch"
+  email            : "cedric.chambru@ens-lyon.fr"
   email            :
   researchgate     :
   uri              :
