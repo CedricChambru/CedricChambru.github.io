@@ -10,9 +10,11 @@ redirect_from:
 
 ## Publications
 
-* Chambru, Cédric and Maneuvrier-Hervieu, Paul (2023). The Evolution of Wages in Early Modern Normandy (1600–1850). *The Economic History Review*, 76(3), pp. 917-940. doi: [10.1111/ehr.13220](https://doi.org/10.1111/ehr.13220).
+* Chambru, Cédric and Maneuvrier-Hervieu, Paul (2023). Introducing HiSCoD: A New Gateway for the Study of Historical Social Conflict. *American Political Science Review*. doi: [10.1017/S000305542300076X](https://doi.org/10.1017/S000305542300076X). [[Replication data](https://doi.org/10.7910/DVN/HGFLGK)] [[Website](https://www.unicaen.fr/hiscod)] [[Raw data](https://github.com/hiscod/hiscod-project)]
 
-* Chambru, Cédric (Forthcoming). Environmental shocks, religious struggle, and resilience: a contribution to the economic history of Ancien Régime France. *European Review of Economic History*.  doi: [10.1093/ereh/heac017](https://doi.org/10.1093/ereh/heac017).
+* Chambru, Cédric (Forthcoming). Environmental shocks, religious struggle, and resilience: a contribution to the economic history of Ancien Régime France. *European Review of Economic History*. doi: [10.1093/ereh/heac017](https://doi.org/10.1093/ereh/heac017).
+
+* Chambru, Cédric and Maneuvrier-Hervieu, Paul (2023). The Evolution of Wages in Early Modern Normandy (1600–1850). *The Economic History Review*, 76(3), pp. 917-940. doi: [10.1111/ehr.13220](https://doi.org/10.1111/ehr.13220).
 
 * Chambru, Cédric and Viallet-Thévenin, Scott (2022). Attaining Autonomy in the Empire: French Governors between 1860 and 1960. *Social Science History*, 46(4), pp. 831-859. doi: [10.1017/ssh.2022.20](https://doi.org/10.1017/ssh.2022.20).
  
@@ -29,8 +31,6 @@ redirect_from:
 * The Dynamic Consequences of State-Building: Evidence from the French Revolution (with [Benjamin Marx](https://sites.google.com/view/bmarx) and [Emeric Henry](https://sites.google.com/site/emericmlhenry)) [[CEPR Working paper DP16815](https://cepr.org/active/publications/discussion_papers/dp.php?dpno=16815)][[UZH Working Paper 406](https://doi.org/10.5167/uzh-217105)][[Last version](https://drive.google.com/file/d/1Wll4seH5huKJU6ll9ziLA4ixs7BJzSG8/view)] Revise & Resubmit, *American Economic Review*
  
    - *Media coverage:* [VoxEU](https://voxeu.org/article/building-state-one-step-time) [VoxEU podcast](https://voxeu.org/vox-talks/french-revolution-state-building)
-
-* Introducing HiSCoD: A New Gateway for the Study of Historical Social Conflict (with [Paul Maneuvrier-Hervieu](https://paulmaneuvrierhervieu.github.io)) [[UZH Working Paper 407](https://doi.org/10.5167/uzh-217109)] Revise & Resubmit, *American Political Science Review*
 
 * The Legacy of Colonial Education: Evidence from Tunisia (with [Mhamed Ben Salah](https://mhamedbensalah.github.io) and [Maleke Fourati](https://sites.google.com/view/malekefourati)) [[UZH Working Paper 411](https://doi.org/10.5167/uzh-218541)]
 
