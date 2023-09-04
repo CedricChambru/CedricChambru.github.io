@@ -8,7 +8,7 @@ redirect_from:
 ---
 
 <br>
-[Download my full CV](https://cedricchambru.github.io/files/cv_cedric_chambru_nov_2022.pdf)
+[Download my full CV](https://cedricchambru.github.io/files/cv_cedric_chambru_sept_2023.pdf)
 
 ## Education
 
