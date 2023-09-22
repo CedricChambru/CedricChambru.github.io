@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Assistant Professor at the Department of Economics at the [École normale supérieure de Lyon](http://economie.ens-lyon.fr).
+I am an Associate Professor at the Department of Economics at the [École normale supérieure de Lyon](http://economie.ens-lyon.fr/en/about-us/our-people/cedric-chambru).
 
 My research spans political economy and economic history. My research interest centers on understanding the role of institutions and state-building in long run development. Another strand of my research studies the evolution of living standards during the Industrial Revolution. In addition, I am interested in the study historical social conflict. Since November 2020, I am the co-maintainer of the [Historical Social Conflict Database (HiSCoD)](https://www.unicaen.fr/hiscod/?locale=en).
 
