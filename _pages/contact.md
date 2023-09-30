@@ -9,7 +9,7 @@ redirect_from:
 <br>
 **Email:** [cedric.chambru@ens-lyon.fr](cedric.chambru@ens-lyon.fr)  
 
-**Phone:** +41 (0) 44 634 25 36  
+<!--- **Phone:** --->
 
 **Address:**  
 Department of Economics  
