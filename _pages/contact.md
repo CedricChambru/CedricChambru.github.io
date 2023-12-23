@@ -7,7 +7,7 @@ redirect_from:
 ---
 
 <br>
-**Email:** [cedric.chambru@ens-lyon.fr](cedric.chambru@ens-lyon.fr)  
+**Email:** [cedric.chambru@ens-lyon.fr](mailto:cedric.chambru@ens-lyon.fr)  
 
 <!--- **Phone:** --->
 
