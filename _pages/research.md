@@ -28,11 +28,11 @@ redirect_from:
 
 ## Working papers  
 
-* The Dynamic Consequences of State-Building: Evidence from the French Revolution (with [Benjamin Marx](https://sites.google.com/view/bmarx) and [Emeric Henry](https://sites.google.com/site/emericmlhenry)) [[CEPR Working paper DP16815](https://cepr.org/active/publications/discussion_papers/dp.php?dpno=16815)][[UZH Working Paper 406](https://doi.org/10.5167/uzh-217105)][[Last version](https://drive.google.com/file/d/1Wll4seH5huKJU6ll9ziLA4ixs7BJzSG8/view)] Revise & Resubmit, *American Economic Review*
+* The Dynamic Consequences of State-Building: Evidence from the French Revolution (with [Benjamin Marx](https://sites.google.com/view/bmarx) and [Emeric Henry](https://sites.google.com/site/emericmlhenry)) [[CEPR Working paper DP16815](https://cepr.org/active/publications/discussion_papers/dp.php?dpno=16815)][[UZH Working Paper 406](https://doi.org/10.5167/uzh-217105)][Last version](https://drive.google.com/file/d/1Wll4seH5huKJU6ll9ziLA4ixs7BJzSG8/view)] Conditionally accepted, *American Economic Review*
  
    - *Media coverage:* [VoxEU](https://voxeu.org/article/building-state-one-step-time) [VoxEU podcast](https://voxeu.org/vox-talks/french-revolution-state-building)
 
-* The Legacy of Colonial Education: Evidence from Tunisia (with [Mhamed Ben Salah](https://mhamedbensalah.github.io) and [Maleke Fourati](https://sites.google.com/view/malekefourati)) [[UZH Working Paper 411](https://doi.org/10.5167/uzh-218541)]
+* The Legacy of Colonial Education: Evidence from Tunisia (with [Mhamed Ben Salah](https://mhamedbensalah.github.io) and [Maleke Fourati](https://sites.google.com/view/malekefourati)) [[UZH Working Paper 411](https://doi.org/10.5167/uzh-218541)] Revise & Resubmit, *Journal of Comparative Economics*
 
 * Do it Right! Leaders, Weather Shocks and Social Conflicts in Pre-Industrial France (1661-1789). [[Working paper](https://doi.org/10.5167/uzh-186150)]
 
@@ -108,7 +108,7 @@ redirect_from:
   </li>
 </ul>
 
-* The Political Determinants of Social Unrest: Theory and Evidence from Early Modern France (with [Matteo Camboni](https://sites.google.com/u.northwestern.edu/matteocamboni/home) and [Michael Porcellacchia](https://sites.northwestern.edu/mporcellacchia/))
+* The Political Determinants of Social Unrest: Theory and Evidence from Early Modern France (with [Matteo Camboni](https://sites.google.com/u.northwestern.edu/matteocamboni/home) and [Michael Porcellacchia](https://sites.google.com/view/michael-porcellacchia))
 
 ## Data collection
 
