@@ -8,7 +8,11 @@ redirect_from:
 ---
 
 <br>
-[Download my full CV](https://cedricchambru.github.io/files/cv_cedric_chambru_sept_2023.pdf)
+[Download my full CV](https://cedricchambru.github.io/files/cv_cedric_chambru_nov_2024.pdf)
+
+## Employment
+* Associate professor in Economics, École normale supérieure de Lyon, 2023--present
+
 
 ## Education
 
@@ -19,13 +23,17 @@ redirect_from:
 
 ## Work experience
 
+* July 2019 -- Aug 2023: Post-doctoral researcher on the project [Measuring Economic Growth and Welfare in 19th Century Switzerland](https://p3.snf.ch/Project-182294)
+  * University of Zurich, Zurich
+  * Principal investigator: [Ulrich Woitek](https://www.econ.uzh.ch/en/people/faculty/woitek.html)
+
 * Feb 2012 -- Aug 2013: Research Assistant on the [Afristory project](http://www.parisschoolofeconomics.eu/docs/cogneau-denis/afristory-document-scientifique-blanc-2011.pdf)
   * Paris School of Economics, Paris
-  * Supervisor: [Denis Cogneau](https://www.parisschoolofeconomics.eu/en/cogneau-denis/)
+  * Supervisor: [Denis Cogneau](https://www.parisschoolofeconomics.eu/en/cogneau-denis)
 
-* Oct 2011 -- Jan 2012 : Research Assistant on the [D-FIH project](https://dfih.fr/)
+* Oct 2011 -- Jan 2012 : Research Assistant on the [D-FIH project](https://dfih.fr)
   * Paris School of Economics, Paris
-  * Supervisor: [Angelo Riva](https://www.parisschoolofeconomics.eu/en/riva-angelo/)
+  * Supervisor: [Angelo Riva](https://www.parisschoolofeconomics.eu/en/riva-angelo)
 
 * April -- Aug 2011: Intern at Department of Sciences for the Action and the Development
   * National Institute for Agricultural Research (INRA), Avignon
