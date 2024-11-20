@@ -10,29 +10,31 @@ redirect_from:
 
 ## Publications
 
-* Chambru, Cédric and Maneuvrier-Hervieu, Paul (2023). Introducing HiSCoD: A New Gateway for the Study of Historical Social Conflict. *American Political Science Review*. doi: [10.1017/S000305542300076X](https://doi.org/10.1017/S000305542300076X). [[Replication data](https://doi.org/10.7910/DVN/HGFLGK)] [[Website](https://www.unicaen.fr/hiscod)] [[Raw data](https://github.com/hiscod/hiscod-project)]
+* Chambru, Cédric and [Marx, Benjamin](https://sites.google.com/view/bmarx) and [Henry, Emeric](https://sites.google.com/site/emericmlhenry) (2024). The Dynamic Consequences of State-Building: Evidence from the French Revolution. *American Economic Review*, 114(11), pp. 3578-3622. doi: [10.1257/aer.20220110](https://doi.org/10.1257/aer.20220110). [[Replication package](https://doi.org/10.3886/E198461V1)]
+   - *Media coverage:* [Broadstreet](https://broadstreet.blog/2022/07/22/how-radical-administrative-reforms-unfold-evidence-from-frances-rotating-capitals), [VoxEU](https://voxeu.org/article/building-state-one-step-time), [VoxEU podcast](https://voxeu.org/vox-talks/french-revolution-state-building), [Econimate](https://youtu.be/fCKFnRsTUKE)
+   - *Award:* Oliver Williamson Best Conference Paper Award, [SIOE 2022](https://www.sioe.org/news/oliver-e-williamson-best-conference-paper-award-2022)
 
-* Chambru, Cédric (2023). Environmental shocks, religious struggle, and resilience: a contribution to the economic history of Ancien Régime France. *European Review of Economic History*, 27(4), pp. 638-640. doi: [10.1093/ereh/heac017](https://doi.org/10.1093/ereh/heac017).
+* Chambru, Cédric and [Maneuvrier-Hervieu, Paul](https://paulmaneuvrierhervieu.github.io) (2024). Introducing HiSCoD: A New Gateway for the Study of Historical Social Conflict. *American Political Science Review*, 118(2), pp. 1084-1091. doi: [10.1017/S000305542300076X](https://doi.org/10.1017/S000305542300076X). [[Replication data](https://doi.org/10.7910/DVN/HGFLGK)] [[Website](https://www.unicaen.fr/hiscod)] [[Raw data](https://github.com/hiscod/hiscod-project)]
+   - *Media coverage:* [Le Monde](https://www.lemonde.fr/idees/article/2021/05/20/deux-siecles-de-revoltes-populaires-decryptees-le-gilet-jaune-se-porte-depuis-bien-longtemps_6080797_3232.html), [Ouest France](https://www.ouest-france.fr/normandie/caen-14000/entretien-hiscod-la-base-de-donnees-sur-les-emeutes-developpee-a-caen-d995b80e-003b-11ec-89f6-98e781273c08)
+    
+* Chambru, Cédric and [Ben Salah, Mhamed](https://mhamedbensalah.github.io) and [Fourati, Maleke] (2024). The Legacy of Colonial Education: Evidence from Tunisia. *Journal of Comparative Economics*. doi: [10.1016/j.jce.2024.09.002](https://doi.org/10.1016/j.jce.2024.09.002). <!-- [[Replication package](https://doi.org/10.5281/zenodo.13926269)] -->
+  - *Media coverage:* [VoxEU](https://cepr.org/voxeu/columns/addressing-lingering-effects-colonial-influence-educational-institutions)
 
-* Chambru, Cédric and Maneuvrier-Hervieu, Paul (2023). The Evolution of Wages in Early Modern Normandy (1600–1850). *The Economic History Review*, 76(3), pp. 917-940. doi: [10.1111/ehr.13220](https://doi.org/10.1111/ehr.13220).
+* Chambru, Cédric (2023). Environmental shocks, religious struggle, and resilience: a contribution to the economic history of Ancien Régime France. *European Review of Economic History*, 27(4), pp. 638-640. doi: [10.1093/ereh/heac017](https://doi.org/10.1093/ereh/heac017).  [[PhD manuscript](https://archive-ouverte.unige.ch/unige:119759)]
 
-* Chambru, Cédric and Viallet-Thévenin, Scott (2022). Attaining Autonomy in the Empire: French Governors between 1860 and 1960. *Social Science History*, 46(4), pp. 831-859. doi: [10.1017/ssh.2022.20](https://doi.org/10.1017/ssh.2022.20).
+* Chambru, Cédric and [Maneuvrier-Hervieu, Paul](https://paulmaneuvrierhervieu.github.io) (2023). The Evolution of Wages in Early Modern Normandy (1600–1850). *The Economic History Review*, 76(3), pp. 917-940. doi: [10.1111/ehr.13220](https://doi.org/10.1111/ehr.13220).
+
+* Chambru, Cédric and [Viallet-Thévenin, Scott](https://cv.archives-ouvertes.fr/scott-viallet-thevenin) (2022). Attaining Autonomy in the Empire: French Governors between 1860 and 1960. *Social Science History*, 46(4), pp. 831-859. doi: [10.1017/ssh.2022.20](https://doi.org/10.1017/ssh.2022.20).
  
 * Chambru, Cédric (2020). Economic shocks, Poverty and Crime in Eighteenth-century Savoy. *Explorations in Economic History*, 78, p. 101353. doi: [10.1016/j.eeh.2020.101353](https://doi.org/10.1016/j.eeh.2020.101353).
 
-* Chambru, Cédric and  Viallet-Thévenin, Scott (2019). Mobilité sociale et Empire : les gouverneurs coloniaux français entre 1830 et 1960. *Revue d'histoire moderne et contemporaine*, 66(4), pp. 53-88. doi: [10.3917/rhmc.664.0053](https://doi.org/10.3917/rhmc.664.0053).
+* Chambru, Cédric and  [Viallet-Thévenin, Scott](https://cv.archives-ouvertes.fr/scott-viallet-thevenin) (2019). Mobilité sociale et Empire : les gouverneurs coloniaux français entre 1830 et 1960. *Revue d'histoire moderne et contemporaine*, 66(4), pp. 53-88. doi: [10.3917/rhmc.664.0053](https://doi.org/10.3917/rhmc.664.0053).
 
 ## Monograph
 
 * An Empire on the Move: Mobility and Structuration of the Elites in the French Imperial Space, 1880–1950 (with [Scott Viallet-Thévenin](https://cv.archives-ouvertes.fr/scott-viallet-thevenin)) [*Book under contract with Palgrave Macmillan*]
 
 ## Working papers  
-
-* The Dynamic Consequences of State-Building: Evidence from the French Revolution (with [Benjamin Marx](https://sites.google.com/view/bmarx) and [Emeric Henry](https://sites.google.com/site/emericmlhenry)) [[CEPR Working paper DP16815](https://cepr.org/active/publications/discussion_papers/dp.php?dpno=16815)][[UZH Working Paper 406](https://doi.org/10.5167/uzh-217105)][Last version](https://drive.google.com/file/d/1Wll4seH5huKJU6ll9ziLA4ixs7BJzSG8/view)] Conditionally accepted, *American Economic Review*
- 
-   - *Media coverage:* [VoxEU](https://voxeu.org/article/building-state-one-step-time) [VoxEU podcast](https://voxeu.org/vox-talks/french-revolution-state-building)
-
-* The Legacy of Colonial Education: Evidence from Tunisia (with [Mhamed Ben Salah](https://mhamedbensalah.github.io) and [Maleke Fourati](https://sites.google.com/view/malekefourati)) [[UZH Working Paper 411](https://doi.org/10.5167/uzh-218541)] Revise & Resubmit, *Journal of Comparative Economics*
 
 * Do it Right! Leaders, Weather Shocks and Social Conflicts in Pre-Industrial France (1661-1789). [[Working paper](https://doi.org/10.5167/uzh-186150)]
 
@@ -70,7 +72,7 @@ redirect_from:
 </ul>
 
 <ul>
-  <li>The Biological Standard of Living of Swiss Mercenaries, c. 1750-c. 1850 (with Simon Hediger and Ulrich Woitek)
+  <li>The Biological Standard of Living of Swiss Mercenaries, c. 1750-c. 1850 (with Simon Hediger, Jakob Metzler and Ulrich Woitek)
     <details>
       <summary>[Abstract]</summary>
       <p align="justify">
