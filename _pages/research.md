@@ -28,7 +28,7 @@ redirect_from:
  
 * Chambru, Cédric (2020). Economic shocks, Poverty and Crime in Eighteenth-century Savoy. *Explorations in Economic History*, 78, p. 101353. doi: [10.1016/j.eeh.2020.101353](https://doi.org/10.1016/j.eeh.2020.101353).
 
-* Chambru, Cédric and  [Viallet-Thévenin, Scott](https://cv.archives-ouvertes.fr/scott-viallet-thevenin) (2019). Mobilité sociale et Empire : les gouverneurs coloniaux français entre 1830 et 1960. *Revue d'histoire moderne et contemporaine*, 66(4), pp. 53-88. doi: [10.3917/rhmc.664.0053](https://doi.org/10.3917/rhmc.664.0053).
+* Chambru, Cédric and [Viallet-Thévenin, Scott](https://cv.archives-ouvertes.fr/scott-viallet-thevenin) (2019). Mobilité sociale et Empire : les gouverneurs coloniaux français entre 1830 et 1960. *Revue d'histoire moderne et contemporaine*, 66(4), pp. 53-88. doi: [10.3917/rhmc.664.0053](https://doi.org/10.3917/rhmc.664.0053).
 
 ## Monograph
 
@@ -36,7 +36,10 @@ redirect_from:
 
 ## Working papers  
 
+* Chambru, Cédric and Hediger, Simon and Metzler, Jakob and Woitek, Ulrich. The Height of Swiss Mercenaries, c. 1725-c. 1865. [[Working paper](https://doi.org/10.5167/uzh-278710)]
+
 * Do it Right! Leaders, Weather Shocks and Social Conflicts in Pre-Industrial France (1661-1789). [[Working paper](https://doi.org/10.5167/uzh-186150)]
+
 
 ## Work in progress  
 
@@ -65,19 +68,6 @@ redirect_from:
       <p align="justify">
         <em>
           In this paper, we propose to analyse the evolution of Norman wages from 1300 to 1600. We rely on new data on wages and prices to estimate series of wages for daily rural and urban skilled and unskilled labourers as well as a tentative series for male annual labourers. In Normandy as elsewhere in Europe, the Black Death and the plague of 1361 initiated a severe demographic crisis. Beyond plagues, Normandy had also to face the consequences of the Hundred Year War between England and France. The effect of the occupation of Normandy by English troops between 1417-9 and 1450 is, however, quite uncertain. The constant demand of supplies certainly drove increases in crop prices, but the demand for craftsmen to construct new fortifications required to hold the territory also plausibly increased labour scarcity and wages. Using data on population derived from hearth rolls for various years and spatial variations in the exposure to the English occupation, we try to understand how plagues, wars and labour scarcity articulated and could explain the formation/evolution of wages during the 15th century in Normandy.
-        </em>
-      </p>
-    </details>
-  </li>
-</ul>
-
-<ul>
-  <li>The Biological Standard of Living of Swiss Mercenaries, c. 1750-c. 1850 (with Simon Hediger, Jakob Metzler and Ulrich Woitek)
-    <details>
-      <summary>[Abstract]</summary>
-      <p align="justify">
-        <em>
-          Although the practice of hiring out citizens to fight for foreign countries lost its importance for generating income during the 18th Century, Swiss mercenaries sent by the state were still under contract up until the mid of the 19th Century. The contracts contain, among other information, height as a means of identification and as an indication of fitness for service. We use this data to look at the change in the biological standard of living in the period c. 1750–c. 1850, considering the specific nature of the mercenary trade. Besides correcting for truncation, the wealth of available data allows distinguishing between birthyear and measurement year effects. Preliminary results show that not taking the measurement year effect into account would lead to a misinterpretation of the changes in the biological standard of living in the period and region of interest. To check whether our  results are not just due to the specific population subgroup we analyze, we compare them with data from prison records and passport registers.
         </em>
       </p>
     </details>
