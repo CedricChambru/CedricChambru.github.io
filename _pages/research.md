@@ -36,7 +36,7 @@ redirect_from:
 
 ## Working papers  
 
-* Chambru, Cédric and Hediger, Simon and Metzler, Jakob and Woitek, Ulrich. The Height of Swiss Mercenaries, c. 1725-c. 1865. [[Working paper](https://doi.org/10.5167/uzh-278710)]
+* Chambru, Cédric and Hediger, Simon and Metzler, Jakob and Woitek, Ulrich. The Height of Swiss Mercenaries, c. 1725-c. 1865. [[Working paper](https://doi.org/10.5167/uzh-278710)]  _R&R Economics and Human Biology_
 
 * Do it Right! Leaders, Weather Shocks and Social Conflicts in Pre-Industrial France (1661-1789). [[Working paper](https://doi.org/10.5167/uzh-186150)]
 
